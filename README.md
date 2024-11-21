@@ -34,5 +34,5 @@ Welcome to the **Django Background Remover** project! 🎉 This application allo
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/django-background-remover.git
+   git clone https://github.com/Mani9047/background-remover_with_django.git
    cd django-background-remover
